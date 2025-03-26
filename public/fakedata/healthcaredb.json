@@ -1,0 +1,67 @@
+{
+	"services": [
+		{
+			"id": 1,
+			"class": "",
+			"treatment": "Sports Injury Rehabilitation",
+			"price": 15000,
+			"description": "Our Sports Injury Rehabilitation program helps athletes recover from injuries, improve mobility, and regain strength through targeted physiotherapy techniques.",
+			"icon": "https://i.ibb.co/DpVdYqQ/heart-2.png",
+			"service_img": "https://i.ibb.co/rG0TSwX/01.jpg"
+		},
+		{
+			"id": 2,
+			"class": "animation",
+			"treatment": "Geriatric Physiotherapy",
+			"price": 25000,
+			"description": "Geriatric Physiotherapy focuses on improving mobility, balance, and strength in older adults to enhance their quality of life and independence.",
+			"icon": "https://i.ibb.co/nzHc2t7/brain-2.png",
+			"service_img": "https://i.ibb.co/Bn2GG0N/06.jpg"
+		},
+		{
+			"id": 3,
+			"class": "",
+			"treatment": "Fracture and Trauma Rehabilitation",
+			"price": 3000,
+			"description": "This program aids in the recovery of fractured bones and traumatic injuries by improving joint mobility, muscle strength, and overall function.",
+			"icon": "https://i.ibb.co/Ks1jsVf/stomach-2.png",
+			"service_img": "https://i.ibb.co/CK7Y2DD/03.jpg"
+		},
+		{
+			"id": 4,
+			"class": "",
+			"treatment": "Post-Surgical Physiotherapy",
+			"price": 100,
+			"description": "Post-Surgical Physiotherapy helps patients regain strength and mobility after surgery through personalized rehabilitation programs and exercises.",
+			"icon": "https://i.ibb.co/NWKjgmj/virus-2.png",
+			"service_img": "https://i.ibb.co/3FS3B8h/08.jpg"
+		},
+		{
+			"id": 5,
+			"class": "animation",
+			"treatment": "Pulmonary Rehabilitation",
+			"price": 9000,
+			"description": "Pulmonary Rehabilitation is designed for individuals with lung conditions, helping them improve breathing, endurance, and overall lung function.",
+			"icon": "https://i.ibb.co/w0Mh2Jf/lungs.png",
+			"service_img": "https://i.ibb.co/q9SM3XT/10.jpg"
+		},
+		{
+			"id": 6,
+			"class": "",
+			"treatment": "Respiratory Physiotherapy",
+			"price": 1800,
+			"description": "Respiratory Physiotherapy helps individuals with breathing difficulties by using airway clearance techniques and exercises to improve lung capacity.",
+			"icon": "https://i.ibb.co/yyPd0N8/bronchus.png",
+			"service_img": "https://i.ibb.co/dDsVnnZ/09.jpg"
+		},
+		{
+			"id": 7,
+			"class": "",
+			"treatment": "Neurological Physiotherapy",
+			"price": 0,
+			"description": "Neurological Physiotherapy focuses on helping individuals with neurological conditions such as stroke, Parkinson's, and multiple sclerosis regain movement and function.",
+			"icon": "https://i.ibb.co/NWKjgmj/virus-2.png",
+			"service_img": "https://i.ibb.co/02FMz1F/02.jpg"
+		}
+	]
+}

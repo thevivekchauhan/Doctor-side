@@ -1,0 +1,21 @@
+.avatar {
+   margin: 20px;
+   color: #4f5692;
+   
+}
+
+/* Add these new styles */
+.text-style:hover {
+    color: black !important;
+    transition: color 0.3s ease;
+}
+
+.sticky-container a:hover {
+    color: black !important;
+    transition: color 0.3s ease;
+}
+
+Typography:hover {
+    color: black !important;
+    transition: color 0.3s ease;
+}
