@@ -1,3 +1,13 @@
+npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+npm install react-scripts --save
+
+npm install
+
+rm -rf node_modules package-lock.json
+npm install
+npm start
+
 
 In this site we have these features and services
 
